@@ -1,17 +1,7 @@
-#  Fake News📰 Classification WebApp using Python
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+#  Fake News📰 Classification WebApp using Python   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
-
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
-
-<img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/fn.jpg">
-
-## [See the Tutorial of this Project](https://youtu.be/GS_ylghUtLQ)
-
+ 
+ 
 ## Usage:-
 
 - Clone my repository.
@@ -33,8 +23,4 @@
 
 
 
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## Donate me on GPAY:- kushalbhavsar58-1@okaxis
+ 
